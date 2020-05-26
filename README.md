@@ -7,7 +7,7 @@ Gzip encryption and decryption wasm implementation, support Deno
 ![GitHub release](https://img.shields.io/github/release/manyuanrong/wasm_gzip.svg)
 ![(Deno)](https://img.shields.io/badge/deno-1.0.2-green.svg)
 
-## Useage
+## Usage
 
 ```ts
 import {
