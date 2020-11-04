@@ -1,0 +1,10 @@
+{
+    "name": "wasm_gzip",
+    "description": "Gzip encryption and decryption wasm implementation, support Deno",
+    "homepage": "https://github.com/manyuanrong/wasm_gzip",
+    "files": [
+    "./**/*.ts",
+    "README.md"
+    ],
+    "entry": "./mod.ts"
+}
